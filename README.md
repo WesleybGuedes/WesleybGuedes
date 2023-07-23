@@ -30,4 +30,12 @@
 ## My Stats
 ![Wesley GitHub stats](https://github-readme-stats.vercel.app/api?username=WesleybGuedes&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleybGuedes&layout=compact&langs_count=7&theme=tokyonight)
+- !cobrinha = https://www.youtube.com/watch?v=JywQJ2qHfPg
+- 
+## Repositories
+<a href="https://github.com/CarlosAllberto/vwat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAllberto&repo=vwat&theme=tokyonight" />
+  </a> <br>
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=WesleybGuedes)
+
 
