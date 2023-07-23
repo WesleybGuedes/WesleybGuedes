@@ -28,4 +28,5 @@
 ![Brootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=whit)
 
 ## My Stats
+![Wesley GitHub stats](https://github-readme-stats.vercel.app/api?username=WesleybGuedes&show_icons=true&theme=tokyonight)
 
