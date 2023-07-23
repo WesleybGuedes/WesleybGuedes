@@ -4,7 +4,7 @@ PT-BR
 :beach_umbrella: Sou Carioca e tenho 28 anos <br>
 :construction_worker: Sou Arquiteto e Urbanista e estudando Desenvolvimento <strong> Full-Stack na Trybe </strong><br>
 :robot: Sou entusiasta da área de tecnologia, tudo em relação à <em>inteligência artificial</em> me interessa. <br>
-:email: Meu e-mail para contato wesleyguedes2013@gmail.com 
+
 
 EN
 
@@ -12,9 +12,9 @@ EN
 :brazil: I'm Brazilian and I'm 28 years old <br>
 :construction_worker: I am an Architect and Urban Planner and studying <strong>Full-Stack Development at Trybe </strong><br>
 :robot: I am a technology enthusiast and everything related to <em>artificial intelligence</em> interests me <br>
-:email: My contact email wesleyguedes2013@gmail.com
 
-<!---
-WesleybGuedes/WesleybGuedes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](wesleyguedes@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-guedes-23369a171/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wesley_guedes_rj/) <br>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
