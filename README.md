@@ -11,28 +11,33 @@
 ## :us:	EN
 
 👋🏻 <strong>Hello World</strong>, my name is Wesley <br>
-🇧🇷 I'm Brazilian and I'm 28 years old <br>
+:brazil: I'm Brazilian and I'm 28 years old <br>
 :family_man_woman_boy: I'm the father of an amazing kid and I have a wonderful wife <br>
 :construction_worker: I'm an Architect and Urban Planner and studying <strong>Full-Stack Development at Trybe </strong><br>
 :robot: I'm a technology enthusiast and everything related to <em>artificial intelligence</em> interests me <br>
 
 ## :pushpin: Contacts
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](wesleyguedes@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-guedes-dev/)
+<a href="https://www.linkedin.com/in/wesley-guedes-dev/" target="_blank">
+<img align="center" alt="Wesley-Linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
+</a>
+<a href="wesleyguedes2013@gmail.com" target="_blank">
+<img align="center" alt="Wesley-Gmail" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/gmail-icon-3.svg" style="max-width:100%;"> </a>
 
 ## :computer: My skills
-![Js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ruby_icon_130186.png" alt="ruby" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="ruby" width="40" height="40" style="max-width:100%;"></img>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="js" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="max-width:100%;"></img>
+<img src="" alt="" width="40" height="40" style="max-width:100%;"></img>
+
 
 
 ## :building_construction: Frameworks
-![Brootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=whit)
-![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" alt="reactbootstrap" width="40" height="40" style="max-width:100%;"></img>
 
 ## My Stats
 ![Wesley GitHub stats](https://github-readme-stats.vercel.app/api?username=WesleybGuedes&show_icons=true&theme=tokyonight)
