@@ -10,7 +10,7 @@
 ## :us:	EN
 
 👋🏻 <strong>Hello World</strong>, my name is Wesley <br>
-:brazil: I'm Brazilian and I'm 28 years old <br>
+🇧🇷 I'm Brazilian and I'm 28 years old <br>
 :family_man_woman_boy: I'm the father of an amazing kid and I have a wonderful wife <br>
 :construction_worker: I'm an Architect and Urban Planner and studying <strong>Full-Stack Development at Trybe </strong><br>
 :robot: I'm a technology enthusiast and everything related to <em>artificial intelligence</em> interests me <br>
@@ -18,8 +18,7 @@
 ## :pushpin: Contacts
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](wesleyguedes@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-guedes-23369a171/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wesley_guedes_rj/) <br>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-guedes-dev/)
 
 ## :computer: My skills
 ![Js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
