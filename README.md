@@ -58,7 +58,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleybGuedes&layout=compact&langs_count=7&theme=tokyonight)
 - !cobrinha = https://www.youtube.com/watch?v=JywQJ2qHfPg
 - 
-![snake gif](https://github.com/WesleybGuedes/WesleybGuedes/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/WesleybGuedes/WesleybGuedes/blob/output/github-contribution-grid-snake-dark.svg)
 
 ## Repositories
 <a href="https://github.com/CarlosAllberto/vwat">
