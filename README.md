@@ -56,9 +56,8 @@
 ## My Stats
 ![Wesley GitHub stats](https://github-readme-stats.vercel.app/api?username=WesleybGuedes&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleybGuedes&layout=compact&langs_count=7&theme=tokyonight)
-- !cobrinha = https://www.youtube.com/watch?v=JywQJ2qHfPg
-- 
-![snake gif](https://github.com/WesleybGuedes/WesleybGuedes/blob/output/github-contribution-grid-snake-dark.svg)
+
+![snake animation](https://github.com/WesleybGuedes/WesleybGuedes/blob/output/github-contribution-grid-snake2.svg)
 
 ## Repositories
 <a href="https://github.com/CarlosAllberto/vwat">
