@@ -61,10 +61,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleybGuedes&layout=compact&langs_count=7&theme=tokyonight)
 
 ![snake gif](https://github.com/WesleybGuedes/WesleybGuedes/blob/output/github-contribution-grid-snake.svg)
-
-## Repositories
-<a href="https://github.com/CarlosAllberto/vwat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosAllberto&repo=vwat&theme=tokyonight" />
-  </a> <br>
-
+<br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=042c62&height=120&section=footer"/>
