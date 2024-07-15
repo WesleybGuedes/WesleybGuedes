@@ -6,18 +6,18 @@
 ## :brazil: PT-BR
 
 👋🏻 <strong>Olá mundo</strong>, me chamo Wesley <br>
-:beach_umbrella: Sou Carioca e tenho 28 anos <br>
+:beach_umbrella: Sou Carioca e tenho 29 anos <br>
 :family_man_woman_boy: Sou pai de um moleque incrivel e tenho uma esposa maravilhosa <br>
-:construction_worker: Sou Desenvolvedor <strong> Full-Stack </strong> além de Arquiteto e Urbanista. <br>
+:construction_worker: Sou Desenvolvedor <strong> Front-End </strong> além de Arquiteto e Urbanista. <br>
 :robot: Sou entusiasta da área de tecnologia, tudo em relação à <em>inteligência artificial</em> me interessa. <br>
 
 
 ## :us:	EN
 
 👋🏻 <strong>Hello World</strong>, my name is Wesley <br>
-:brazil: I'm Brazilian and I'm 28 years old <br>
+:brazil: I'm Brazilian and I'm 29 years old <br>
 :family_man_woman_boy: I'm the father of an amazing kid and I have a wonderful wife <br>
-:construction_worker: I am a <strong>Full-Stack</strong> Developer as well as an Architect and Urban Planner. <br>
+:construction_worker: I am a <strong>Front-End</strong> Developer as well as an Architect and Urban Planner. <br>
 :robot: I'm a technology enthusiast and everything related to <em>artificial intelligence</em> interests me <br>
 
 ## :pushpin: Contacts
@@ -34,6 +34,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" alt="css3" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="js" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="sql" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" alt="node" width="40" height="40" style="max-width:100%;"></img>
@@ -48,9 +49,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="jest" width="40" height="40" style="max-width:100%;"></img>
 
 ## :books: Studying
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="go" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-plain.svg" alt="mui" width="40" height="40" style="max-width:100%;"></img>
 
 
 ## My Stats
